@@ -25,8 +25,8 @@
 ## 📑 目录 (Table of Contents)
 
 ### Part I: 写作 Prompt 集合
-- [中转英](Writing_Prompt/translate_en.md)
-- [英转中](Writing_Prompt/translate_zh.md)
+- [中转英](Writing_Prompt/translate_zh2en.md)
+- [英转中](Writing_Prompt/translate_en2zh.md)
 - [中转中](Writing_Prompt/rewrite_zh.md)
 - [缩写](Writing_Prompt/condense.md)
 - [扩写](Writing_Prompt/expand.md)
